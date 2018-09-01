@@ -1,11 +1,7 @@
 # React-Todo-App
 A lightweight todo app written in JavaScript using React.js framework.
 
-## Using
-
-You can [download the latest release](https://github.com/alexlaurence/React-Todo-App/releases) for your operating system or build it yourself (see below).
-
-## Building
+## Quick Overview
 
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
@@ -15,6 +11,9 @@ $ cd React-Todo-App
 $ npm install
 $ npm start
 ```
+
+Then open [http://localhost:3000/](http://localhost:3000/) to see the app.<br>
+When you’re ready to deploy to production, create a minified bundle with `npm run build`.
 
 If you don't wish to clone, you can [download the source code](https://github.com/alexlaurence/React-Todo-App/archive/master.zip).
 
